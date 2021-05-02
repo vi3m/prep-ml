@@ -45,6 +45,9 @@ class Prep:
     
 
     def get_data(self):
+        '''
+        Returns the processed dataframe.
+        '''
         return self.df
 
 
@@ -119,6 +122,13 @@ class Prep:
 
     @classmethod
     def from_json(cls, mapper, df=None):
+        '''
+        Reads the mapper JSON string object and performs operations on provided dataframe as defined in the mapper.
+        
+        Args:
+            mapper: A JSON mapper object.
+            df: pandas DataFrame.
+        '''
         if df is None:
             raise DataMissingError('Missing file_path and/or dataframe.')
         
@@ -138,6 +148,13 @@ class Prep:
 
     @classmethod
     def from_dict(cls, mapper, df=None):
+        '''
+        Reads the mapper python dict object and performs operations on provided dataframe as defined in the mapper.
+        
+        Args:
+            mapper: A python dict mapper object.
+            df: pandas DataFrame.
+        '''
         if df is None:
             raise DataMissingError('Missing file_path and/or dataframe.')
         
