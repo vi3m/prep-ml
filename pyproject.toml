@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "prep-ml"
+version = "0.1.0"
+description = "Preprocessing for ML models made easy."
+authors = ["vijaymlv <dev.vijaymlv@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+keywords = ["preprocessing", "sklearn", "scikit", "scikit-learn", "ml", "model"]
+classifiers = [
+        "Environment :: Web Environment",
+        "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Programming Language :: Python :: 3.7",
+        "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Scientific/Engineering",
+        "Topic :: Software Development :: Pre-processors"
+    ]
+
+[tool.poetry.dependencies]
+python = ">=3.7.1"
+pandas = "^1.2.4"
+scikit-learn = "^0.24.2"
+category-encoders = "^2.2.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,31 @@
+EMP_ID,FIRST_NAME,LAST_NAME,DOB,GENDER,RATING,DESIGNATION,PROMOTED
+150503,Grissel,Origan,5/6/1996,F,4,Marketing,true
+426030,Barbi,Rennebach,3/17/1990,F,,Engineering,false
+487378,Saraann,Cray,4/26/1984,F,,Research and Development,true
+934796,Othello,Hullock,7/18/2002,M,3,Marketing,true
+345004,Shirley,Purdon,7/30/2004,F,,Services,true
+819871,Kaja,Kiss,6/8/1993,F,5,Product Management,true
+911179,Francois,Killgus,10/10/1993,O,4,Product Management,true
+318805,Aubrey,Varley,10/1/1988,M,,Sales,false
+175294,Torin,Malby,3/21/2001,M,1,Human Resources,true
+979586,Iver,Narup,8/31/1993,M,3,Human Resources,true
+849681,Delaney,Penwarden,11/22/1981,M,3,Research and Development,true
+501253,Honey,Dougill,4/6/2001,F,2,Research and Development,false
+587021,Cyrille,Bilovus,5/24/1995,M,2,Human Resources,false
+526730,Beverie,Broxholme,8/22/1991,F,1,Product Management,false
+841339,Antin,Fawley,9/10/2004,M,1,Legal,false
+535760,Sybila,Myott,10/12/1993,F,4,Training,false
+366899,Pearline,Stonelake,4/9/1994,F,4,Training,true
+499570,Melisandra,Heathorn,1/3/1997,F,5,Accounting,true
+345974,Johannes,Verrills,11/6/1998,M,,Services,false
+111698,Jesse,Filon,1/6/2004,M,2,Engineering,false
+846347,Zak,Vanyatin,10/31/1988,M,,Business Development,true
+530873,Brocky,Swepson,11/14/1991,M,5,Business Development,false
+280379,Eddie,Hubbocks,5/9/1985,O,3,Accounting,false
+217732,Xenia,Braunfeld,7/28/1998,F,4,Training,false
+925189,Meriel,Skilling,4/2/1992,F,2,Sales,false
+148119,Louise,Matyushonok,7/19/1983,F,5,Services,false
+454313,Craggie,Fleckness,9/19/1983,M,4,Human Resources,true
+550464,Raeann,Clerk,5/14/1989,F,4,Human Resources,false
+736037,Bobbee,Millard,7/5/2004,F,1,Training,true
+794629,Lurleen,Henrichsen,10/13/1995,F,,Marketing,false
