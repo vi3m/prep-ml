@@ -1,5 +1,7 @@
 <h1 align="center">Prep-ML</h1>
 
+[![Downloads](https://static.pepy.tech/personalized-badge/prep-ml?period=month&units=international_system&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/prep-ml)
+
 ## What is Prep-ML?
 prep-ml is an open-source pre-processing library aimed at simplifying the data processing steps and streamlining the transformation techniques before feeding it to your choice of machine learning algorithm.
 
